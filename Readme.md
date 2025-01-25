@@ -1,5 +1,5 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
-![Simulator Screenshot](https://github.com/bderbidge/FetchTakeHome/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-01-19%20at%2023.14.13.png)
+![Simulator Screenshot](https://github.com/bderbidge/FetchTakeHome/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-01-24%20at%2018.57.45.png){:width="300px"}
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
