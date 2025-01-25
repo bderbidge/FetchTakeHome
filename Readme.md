@@ -9,6 +9,7 @@
 #### Error Screen
 <img src="https://github.com/bderbidge/FetchTakeHome/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-01-24%20at%2018.57.40.png" width="300">
 </p>
+
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 My main focus was on the Repository and ensuring the interactions between the web client and photo manager followed the single responsibility principle to ensure testability. Furthermore I spent time following protocol oriented programming as it allows the use of mocking and and dependency injection for cleaner code.
 
